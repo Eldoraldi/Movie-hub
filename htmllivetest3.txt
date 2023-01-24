@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Entertainments</title>
+	</head>
+	<body>
+	<h1>My Favourites</h1>
+	<a href="file:///C:/Users/91952/Desktop/myprojecthtml/task3/movie.html">Movies</a>
+	<a href="file:///C:/Users/91952/Desktop/myprojecthtml/task3/series.html">series</a>
+	<a href="">songs</a>
+	</body>
+</html>
